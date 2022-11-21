@@ -1,2 +1,1 @@
-cd ubuntu
-bash ubuntu-new-install.sh
+cd ubuntu; bash ub-new-install.sh
