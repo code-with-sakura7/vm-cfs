@@ -1,1 +1,1 @@
-sudo apt update && sudo apt install -y nala; sudo nala update && sudo nala upgrade -y; sudo nala install -y zsh vim curl wget wget2 git ubuntu-restricted-extras llvm lldb; chsh -s $(which zsh); sudo reboot
+sudo apt update && sudo apt install -y nala; sudo nala update && sudo nala upgrade -y; sudo nala install -y zsh vim curl wget wget2 git build-essential ubuntu-restricted-extras llvm lldb; chsh -s $(which zsh); sudo reboot
