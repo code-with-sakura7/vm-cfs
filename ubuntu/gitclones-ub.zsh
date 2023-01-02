@@ -1,1 +1,1 @@
-mkdir ~/gitrepo-clones; cd ~/gitrepo-clones/; git clone https://github.com/dracula/gnome-terminal
+mkdir ~/gitrepo-clones; cd ~/gitrepo-clones/; git clone https://github.com/catppuccin/gnome-terminal.git; cd gnome-terminal; python3 install.py

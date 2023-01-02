@@ -1,1 +1,1 @@
-cd ubuntu; zsh ./alias-setup-ub.zsh; zsh ./gitclones-ub.zsh; cd ../common; zsh ./nvm-setup.zsh; zsh ./rust-setup.zsh; zsh ./zsh-setup-git-clones.zsh; zsh ./brew-install.zsh; 
+cd ubuntu; zsh ./alias-setup-ub.zsh; zsh ./gitclones-ub.zsh; cd ~/vm-cfs/common; zsh ./nvm-setup.zsh; zsh ./rust-setup.zsh; zsh ./zsh-setup-git-clones.zsh; zsh ./brew-install.zsh; 
